@@ -1,1 +1,6 @@
 -r prod.txt
+
+ipython
+pyflakes
+pylint
+pytest
